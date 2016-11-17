@@ -10,6 +10,11 @@ I've only really tested this with Chrome, so I've got no idea how well it runs i
 
 ## Screenshots
 
+These are screenshots from my laptop with a tiny 1366x768 screen.
 ![2 Columns](/ExamplePictures/2columns.png?raw=true "2 Columns Example")
 
 ![3 Columns](/ExamplePictures/3columns.png?raw=true "3 Columns Example")
+
+## To Do
+
+-Add the ability to switch between 2 Columns or 3 Columns without changing any code - Single click on screen to toggle?
