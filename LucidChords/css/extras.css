@@ -1,0 +1,34 @@
+#column_gap_2 {
+-webkit-column-count: 2;
+-moz-column-count: 2;
+column-count: 2;
+-moz-column-gap: 0em;
+-webkit-column-gap: 0em;
+column-gap: 0em;
+
+}
+
+#column_gap_3 {
+-webkit-column-count: 3;
+-moz-column-count: 3;
+column-count: 3;
+-moz-column-gap: 0em;
+-webkit-column-gap: 0em;
+column-gap: 0em;
+
+}
+
+div{
+    font-family: monospace;
+	line-height: 90%;
+  column-rule: 1px solid #000;
+    white-space: pre;
+	
+	}
+
+	
+.myClass {
+    background-color: red;
+    color: white;
+    font-size: 44px;
+}
