@@ -1,4 +1,4 @@
-#column_gap_2 {
+.column_gap_2 {
 -webkit-column-count: 2;
 -moz-column-count: 2;
 column-count: 2;
@@ -8,7 +8,7 @@ column-gap: 0em;
 
 }
 
-#column_gap_3 {
+.column_gap_3 {
 -webkit-column-count: 3;
 -moz-column-count: 3;
 column-count: 3;
@@ -31,4 +31,8 @@ div{
     background-color: red;
     color: white;
     font-size: 44px;
+}
+
+.hidden-div {
+    display:none;
 }
