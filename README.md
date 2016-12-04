@@ -5,6 +5,19 @@ I got annoyed with website listing songs I wanted to play through across 5+ page
 
 I've only really tested this with Chrome, so I've got no idea how well it runs in other browsers.
 
+## Setup
+1. Click here to go to the Releases page.
+2. Click the LucidChords .zip file shown in the image below to download the .zip file that's needed.
+[.zip](http://i.imgur.com/EbNkLgh.png)
+3. Extract using your favourite unzipper (7zip is my favourite). Now you should be ready!
+
+## Use
+1. Open LucidChords.php in your browser.
+2. Prepare a .txt file you'd like to use to play by copying/writing all the lyrics and chords into a .txt file and saving it in Notepad to your PC somewhere you can easily find it again.
+3. Use the "Choose File" button to select your .txt file and open it.
+4. The lyrics and chords should now appear on screen. If 2 columns is not enough to display all the lyrics and chords, left-click anywhere on screen to display the lyrics and chords across 3 columns.
+5. In order to load a new song, just use F5 to reload the page and display the "Choose File" button again.
+
 ## Tips
 -Press F11 on most browsers to make it full screen.
 
