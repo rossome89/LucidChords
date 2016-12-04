@@ -9,6 +9,7 @@ I've only really tested this with Chrome, so I've got no idea how well it runs i
 -Press F11 on most browsers to make it full screen.
 -It respects whitespace so make sure you preserve it.
 -Sometimes pages don't sit just right so add a few returns in the .txt to break up lines that shouldn't be together.
+-I've just made a directory on my computer where I collect .txt files. [Click here for my example.](../blob/master/ExamplePictures/Directory.png)
 
 ## Screenshots
 
