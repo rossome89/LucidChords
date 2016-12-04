@@ -8,7 +8,7 @@ I've only really tested this with Chrome, so I've got no idea how well it runs i
 ## Setup
 1. Click [here](https://github.com/rossome89/LucidChords/releases) to go to the Releases page.
 2. Click the LucidChords .zip file shown in the image below to download the .zip file that's needed.
-![.zip](http://i.imgur.com/EbNkLgh.png)
+![.zip](http://i.imgur.com/kAnoJlr.png)
 3. Extract using your favourite unzipper (7zip is my favourite). Now you should be ready!
 
 ## Use
