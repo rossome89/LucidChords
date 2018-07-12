@@ -36,4 +36,5 @@ These are screenshots from my laptop with a tiny 1366x768 screen.
 ## To Do
 
 ~~-Add the ability to switch between 2 Columns or 3 Columns without changing any code - Single click on screen to toggle?~~
-Chrome update broke functionality. Needs fixed.
+
+~~Chrome update broke functionality. Needs fixed.~~
